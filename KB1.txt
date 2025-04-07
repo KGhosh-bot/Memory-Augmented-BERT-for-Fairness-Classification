@@ -1,0 +1,39 @@
+The jurisdiction clause stipulates what courts will have the competence to adjudicate disputes under the contract.
+Consumers must have the right to bring disputes in their place of residence.
+Stating that any judicial proceeding takes a residence away is clearly unfair.
+Stating that any judicial proceeding takes a residence in a different city is clearly unfair.
+Stating that any judicial proceeding takes a residence in a different country is clearly unfair.
+The choice of law clause specifies what law will govern the contract.
+The choice of law clause specifies what law will be applied in potential adjudication of a dispute arising under the contract.
+Defining the applicable law as the law of the consumer's country of residence is clearly fair.
+Not defining the applicable law as the law of the consumer's country of residence is potentially unfair.
+The limitation of liability clause stipulates that the duty to pay damages is limited or excluded, for certain kind of losses, under certain conditions.
+Explicitly affirming non-excludable provider's liabilities is clearly fair.
+Reducing, limiting, or excluding the liability of the service provider is potentially unfair.
+The unilateral change clause specifies the conditions under which the service provider could amend and modify the terms of service.
+The unilateral change clause specifies the conditions under which the service provider could amend and modify the service itself.
+Specifying the conditions under which the service provider could amend and modify the terms of service is potentially unfair.
+Specifying the conditions under which the service provider could amend and modify the service itself is potentially unfair.
+The unilateral termination clause gives provider the right to suspend and or terminate the service.
+The unilateral termination clause gives provider the right to suspend and or terminate the contract.
+The unilateral termination sometimes details the circumstances under which the provider claims to have a right to do so.
+Specifying the reasons for unilateral termination is potentially unfair.
+Stipulating that the service provider may suspend or terminate the service at any time is clearly unfair.
+Stipulating that the service provider may suspend or terminate the service for any or no reasons and or without notice is clearly unfair.
+Stipulating that the service provider may suspend or terminate the service without notice is clearly unfair.
+The contract by using clause stipulates that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them.
+Stipulating that the consumer is bound by the terms of use of a specific service simply by using the service is potentially unfair
+Stipulating that the consumer is bound by the terms of use of a specific service without even being required to mark that he or she has read and accepted them is potentially unfair.
+The content removal clause gives the provider a right to modify or delete user's content, including in-app purchases.
+The content removal clause sometimes specifies the conditions under which the service provider may do so.
+Indicating the conditions for content removal is potentially unfair.
+Stipulating that the service provider may remove content in his full discretion is clearly unfair.
+Stipulating that the service provider may remove content at any time is clearly unfair.
+Stipulating that the service provider may remove content for any or no reasons is clearly unfair.
+Stipulating that the service provider may remove content without notice nor possibility to retrieve the content is clearly unfair.
+The arbitration clause requires or allows the parties to resolve their disputes through an arbitration process, before the case could go to court.
+The arbitration clause is considered as a kind of forum selection clause.
+The arbitration clause may or may not specify that arbitration should occur withn a specific jurisdiction.
+Stipulating that the arbitration should take place in a stace other than the state of consumer's residence is clearly unfair.
+Stipulating that the arbitration should be base not on law but on arbiter's discretion is clearly unfair.
+Defining the arbitration as fully optional is clearly fair.
